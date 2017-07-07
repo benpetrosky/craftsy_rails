@@ -9,6 +9,13 @@
         2,
         2,
         2,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/benjaminpetrosky/Desktop/craftsy/spec/rails_helper.rb": [
@@ -685,6 +692,7 @@
       "/Users/benjaminpetrosky/Desktop/craftsy/app/models/product.rb": [
         1,
         1,
+        null,
         1,
         1,
         1,
@@ -698,6 +706,21 @@
         null,
         null
       ],
+      "/Users/benjaminpetrosky/Desktop/craftsy/spec/factories.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/benjaminpetrosky/Desktop/craftsy/spec/models/review_spec.rb": [
         1,
         null,
@@ -705,6 +728,12 @@
         2,
         2,
         2,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/benjaminpetrosky/Desktop/craftsy/spec/models/user_spec.rb": [
@@ -715,6 +744,6 @@
         null
       ]
     },
-    "timestamp": 1499452091
+    "timestamp": 1499454547
   }
 }
